@@ -183,14 +183,14 @@ font-weight: bold;
 }
 
 
-@media (max-width:991px){
+@media (max-width: 1028px) {
 
-#title{
-  text-align: center;
-}
+  #title {
+    text-align: center;
+  }
 
-.img-iphone-mockup{
-  transform:rotate(0);
-  position:static;
-}
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
 }
